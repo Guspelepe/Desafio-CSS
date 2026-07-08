@@ -14,7 +14,6 @@ O objetivo deste projeto foi recriar uma landing page moderna. A página simula 
 
 ### ⚡ Principais pontos desenvolvidos:
 * **Layout Fluido:** Uso de `Flexbox` para alinhamento e distribuição dos elementos na tela.
-* **Responsividade Total:** Implementação de `@media queries` para garantir que a interface mude de formato tanto em desktops quanto em celulares.
 
 ## 🛠️ Tecnologias Utilizadas
 
